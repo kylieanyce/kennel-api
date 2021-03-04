@@ -79,8 +79,9 @@
   "locations": [
     {
       "id": 1,
-      "name": "Nashville Nort",
-      "address": "8422 Johnson Pik"
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike",
+      "employeeId": null
     },
     {
       "id": 2,
