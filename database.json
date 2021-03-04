@@ -10,9 +10,9 @@
     {
       "id": 3,
       "name": "Clown",
-      "breed": "Hound",
-      "customerId": 3,
-      "locationId": 2
+      "breed": "Hound-Mix",
+      "locationId": 2,
+      "customerId": 3
     },
     {
       "id": 4,
@@ -34,34 +34,26 @@
       "id": 2,
       "name": "Debbie Kraft",
       "address": "62 fire lane",
-      "email": "debk@gmail.com",
-      "animalId": 2
+      "email": "debk@gmail.com"
     },
     {
       "id": 3,
       "name": "Rema Wilson",
       "address": "78 Canterbury Close",
-      "email": "remaw@hotmail.com",
-      "animalId": 3
+      "email": "remaw@hotmail.com"
     },
     {
       "id": 4,
       "name": "Yolanda Carter",
       "address": "7890 Nucklehead St",
-      "email": "yoliec@gmail.com",
-      "animalId": 4
-    },
-    {
-      "email": "kylieanyce@gmail.com",
-      "name": "Kylie Bearden",
-      "id": 5
+      "email": "yoliec@gmail.com"
     }
   ],
   "employees": [
     {
       "id": 1,
       "name": "Teresa May",
-      "locationId": 1
+      "locationId": 3
     },
     {
       "id": 2,
@@ -87,8 +79,8 @@
   "locations": [
     {
       "id": 1,
-      "name": "Nashville North",
-      "address": "8422 Johnson Pike"
+      "name": "Nashville Nort",
+      "address": "8422 Johnson Pik"
     },
     {
       "id": 2,
